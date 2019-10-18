@@ -60,8 +60,8 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
+              <Link className="navbar-item" to="/a-propos">
+                A propos
               </Link>
               <Link className="navbar-item" to="/products">
                 Products
